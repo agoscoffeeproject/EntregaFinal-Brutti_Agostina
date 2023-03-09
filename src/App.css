@@ -1,25 +1,52 @@
-.nav{
-  display: flex;
-  margin: 20px;
+@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 
-}
-.nav-list{
-  list-style: none;
-  align-content: flex-end;
+body {
+  max-width: 1200px;
+  margin: auto;
 }
 
-.nav-list li {
-  display: inline-block;
-  padding: 0 20px;
-  color: brown;
+.cardProducto {
+  width: 18rem;
+  margin: 4px;
+  background-color: hsl(0, 0%, 97%);
 }
 
-.nav-logo{
-  padding: 0 20px;
+.cardBody {
+  background-color: white;
+  margin-bottom: 3px;
+  text-align: center;
 }
 
-.nav-link {
-  text-decoration: none; 
-  font-family: roboto;
+img {
+  margin-top:3px;
+}
 
+.cardProductos {
+  margin: 4px;
+  align-items:center;
+  justify-content: center;
+}
+
+.cartWidget {
+  position: relative;
+  right: 3%;
+  color:white;
+}
+
+.nav-link{
+  margin: 15px 20px;
+}
+
+.cantCarrito {
+  position: relative;
+  left: 15%;
+}
+
+.itemDetail {
+  max-width: 540px;
+  margin-top: 20px;
+}
+
+.nav- {
+  text-decoration-color: black;
 }

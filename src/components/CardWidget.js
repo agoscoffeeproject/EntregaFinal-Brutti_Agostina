@@ -3,8 +3,16 @@ import '../App.css';
 
 export const CartWidget = () => {
     return (
-        <i className="bi bi-cart-fill"></i>
+        <>
+                
+                <button className="btn btn-secondary cartWidget">
+                <i className="bi bi-cart4"></i>
+                <span className="cantCarrito">0</span>
+                </button>
+
+            </> 
+        
     )
 }
 
-export default CartWidget;
+export default CartWidget; 

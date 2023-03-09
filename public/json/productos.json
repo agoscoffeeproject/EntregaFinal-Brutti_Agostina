@@ -1,0 +1,107 @@
+[
+    {
+        "id": 1,
+        "idCategoria": 1,
+        "nombre": "Café Martinez- Colombia",
+        "precio": 2700,
+        "stock": 50,
+        "img": "cafe_1.jpg"
+    },
+    {
+        "id": 2,
+        "idCategoria": 1,
+        "nombre": "Cafe Viaggio ETIOPÍA",
+        "precio": 2850,
+        "stock": 20,
+        "img": "cafe_2.jpg"
+    },
+    {
+        "id": 3,
+        "idCategoria": 1,
+        "nombre": "Cafe Starbucks Verona",
+        "precio": 3500,
+        "stock": 35,
+        "img": "cafe_3.jpg"
+    },
+    {
+        "id": 4,
+        "idCategoria": 1,
+        "nombre": "Franja Blanca Bonafide",
+        "precio": 4000,
+        "stock": 27,
+        "img": "cafe_4.jpg"
+    },
+    {
+        "id": 5,
+        "idCategoria": 2,
+        "nombre": "Taza Programación",
+        "precio": 1250,
+        "stock": 7,
+        "img": "taza_1.jpg"
+    },
+    {
+        "id": 6,
+        "idCategoria": 2,
+        "nombre": "Set Vasos Barista X2",
+        "precio": 3800,
+        "stock": 15,
+        "img": "taza_2.jpg"
+    },
+    {
+        "id": 7,
+        "idCategoria": 2,
+        "nombre": "Nespresso Travel Mug",
+        "precio": 10500,
+        "stock": 10,
+        "img": "taza_3.jpg"
+    },
+    {
+        "id": 8,
+        "idCategoria": 2,
+        "nombre": "Taza Always Harry Potter",
+        "precio": 1500,
+        "stock": 30,
+        "img": "taza_4.jpg"
+    },
+    {
+        "id": 9,
+        "idCategoria": 3,
+        "nombre": "Cafetera Peabody",
+        "precio": 70000,
+        "stock": 10,
+        "img": "cafetera_1.jpg"
+    },
+    {
+        "id": 10,
+        "idCategoria": 3,
+        "nombre": "Cafetera Nespresso",
+        "precio": 50000,
+        "stock": 15,
+        "img": "cafetera_2.jpg"
+    },
+    {
+        "id": 11,
+        "idCategoria": 3,
+        "nombre": "Cafetera Express Oster",
+        "precio": 235000,
+        "stock": 5,
+        "img": "cafetera_3.jpg"
+    },
+    {
+        "id": 12,
+        "idCategoria": 4,
+        "nombre": "Molino de café- Encore",
+        "precio": 135000,
+        "stock": 4,
+        "img": "articulo_1.jpg"
+    },
+    {
+        "id": 13,
+        "idCategoria": 4,
+        "nombre": "Tamper- Estostadores",
+        "precio": 6600,
+        "stock": 20,
+        "img": "articulo_2.jpg"
+    }
+
+]
