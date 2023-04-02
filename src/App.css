@@ -1,8 +1,9 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@200&display=swap');
 
 body {
   max-width: 1200px;
   margin: auto;
+  background-color: #D0B8A8;
 }
 
 .cardProducto {
@@ -30,7 +31,7 @@ img {
 .cartWidget {
   position: relative;
   right: 3%;
-  color:white;
+
 }
 
 .nav-link{
@@ -43,10 +44,58 @@ img {
 }
 
 .itemDetail {
-  max-width: 540px;
+  max-width: 40%;
   margin-top: 20px;
 }
 
-.nav- {
-  text-decoration-color: black;
+.cantCarrito {
+  position: relative;
+  left: 15%;
+}
+
+.itemDetail {
+  max-width: 40%;
+  margin-top: 20px;
+}
+.cartContainer {
+  margin-top:3%;
+  margin-left: 26.5%;
+}
+.imgBody {
+  display:block;
+  margin:auto;
+  max-height: 100%;
+}
+
+.btn-primary{
+  background-color: #DFD3C3;
+  color: #000;
+  border-color: white;
+}
+
+.btn-secondary{
+  color: #000;
+  border-color: white;
+}
+
+.btn-primary :hover{
+  color: white;
+}
+
+.bg-navbar {
+    background-color: #85586F;
+    font-weight: 600;
+}
+
+.card-color{
+  background-attachment: #F3DEBA;
+}
+
+.text-black {
+  color: black;
+  font-weight: 600;
+}
+
+.cart{
+  width: 30px;
 }
